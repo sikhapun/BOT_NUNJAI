@@ -1,7 +1,7 @@
 <?php
 $access_token = 'XXXXXXXXXXXXXXXXXXXXXXX';
 
-$url = 'https://api.line.me/v1/oauth/verify';
+$url = 'https://github.com/sikhapun/BOT_NUNJAI/blob/master/verify';
 
 $headers = array('Authorization: Bearer ' . $access_token);
 
