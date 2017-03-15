@@ -1,5 +1,5 @@
 <?php
-$access_token = 'WW/3kU+cZiZWrcn8nkH0tdoR7b5CXpWhYvEsaM9M+FAcfJMoij5ExOQCUjuqbDK4zYG1YJo90n/YPvfkzxdvJocdL0IqjkqCvlO2pFMnXCg3X6NrfcUqjmXnfGa14gf8QoBtsTqskBTCgWr2l+1kSQdB04t89/1O/w1cDnyilFU=';
+$access_token = 'U1ce6451b6b471043cde8dc4e060efd35 ';
 
 $url = 'https://github.com/sikhapun/BOT_NUNJAI/blob/master/verify';
 
